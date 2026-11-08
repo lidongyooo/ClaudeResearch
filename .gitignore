@@ -1,0 +1,19 @@
+# 只管理以下文件，其余一律忽略
+*
+
+!.gitignore
+!.vite/
+!.vite/build/
+!.vite/build/global_*.js
+!.vite/build/index.pre.js
+!.vite/build/native/
+!.vite/build/native/safe_storage.node
+!.vite/renderer/
+!.vite/renderer/switch_account/
+!.vite/renderer/switch_account/switch_account.html
+!.vite/build/xray/
+!.vite/build/xray/**
+!sync_*
+!defuse.js
+!README.md
+!build_*
