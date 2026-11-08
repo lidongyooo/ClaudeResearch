@@ -2,6 +2,8 @@
 
 非官方 Claude Desktop 补丁，提供多账号切换、账号备份/恢复和 Claude Code 会话同步。
 
+本项目的实现均来自于 [Claude 风控分析与使用指南](https://mp.weixin.qq.com/s/c78TWbi9kUmguLuhHxLDeA?from=groupmessage&isappinstalled=0&scene=1&clicktime=1794127726&enterid=1794127726) 的理论指导。
+
 > 与 Anthropic 官方无关。仅用于自己的账号和设备，风险自负。
 
 ## 功能
